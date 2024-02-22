@@ -1,0 +1,160 @@
+Имя: .idea
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: .venv
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: CR
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: leckia12
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: leckia13(исключения)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: leckia6(модули)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia1
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: Lekcia10(ОПП начало)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia11
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia14
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia15
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia2
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia3
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia4(функции)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: Lekcia5(итераторы и генераторы)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: Lekcia7(файловая система)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia8(серилизация)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: lekcia9(Декораторы)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar1
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar10
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar11
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar12
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar13
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar15
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar2
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar3(коллекции)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar4(функции)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar5(итераторы и генераторы)
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar6
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar7
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar8
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
+Имя: seminar9
+Расширение: 
+Директория: Да
+Родительская директория: C:\Users\Администратор\PycharmProjects\pythonProject
+
